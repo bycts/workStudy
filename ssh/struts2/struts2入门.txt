@@ -1,0 +1,13 @@
+入门案例：1.2.5  编写Struts.xml配置文件中package的namespace属性默认为根目录
+
+如果要修改为namespace=/user则前端页面index.jsp  action的访问路径为/user/hello.action
+
+
+
+
+
+
+
+
+
+
