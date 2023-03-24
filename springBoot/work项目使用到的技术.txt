@@ -1,0 +1,2 @@
+前端：freeMarker(ftl)   layUI框架  JQuery  JS
+后端：Springboot框架   redies  shiro  maven  svn JPA  JOB
